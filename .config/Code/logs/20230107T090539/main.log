@@ -1,0 +1,6 @@
+2023-01-07 09:05:39.148 [info] update#setState idle
+2023-01-07 09:05:40.366 [info] Starting extension host with pid 23511 (fork() took 9 ms).
+2023-01-07 09:06:09.152 [info] update#setState checking for updates
+2023-01-07 09:06:09.396 [info] update#setState idle
+2023-01-07 09:12:38.672 [info] Waiting for extension host with pid 23511 to exit.
+2023-01-07 09:12:38.708 [info] Extension host with pid 23511 exited with code: 0, signal: null.

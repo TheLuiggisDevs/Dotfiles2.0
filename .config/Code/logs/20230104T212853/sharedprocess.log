@@ -1,0 +1,8 @@
+2023-01-04 21:28:56.778 [info] Starting worker process with pid 28296 (type: fileWatcher, window: 1).
+2023-01-04 21:28:58.911 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-01-04 21:28:59.201 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-01-04 21:29:00.273 [info] Extracted extension to /home/l/.vscode/extensions/.16034a1b-1e16-487a-8a49-3afe0a700c6a: bradlc.vscode-tailwindcss
+2023-01-04 21:29:00.278 [info] Renamed to /home/l/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.4
+2023-01-04 21:29:00.279 [info] Extracting completed. bradlc.vscode-tailwindcss
+2023-01-04 21:29:00.289 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-01-04 21:29:00.305 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.9.3

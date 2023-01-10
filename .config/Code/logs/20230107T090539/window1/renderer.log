@@ -1,0 +1,4 @@
+2023-01-07 09:05:44.251 [error] [Extension Host] (node:23511) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+2023-01-07 09:05:47.058 [info] [perf] Render performance baseline is 89ms
+2023-01-07 09:06:58.154 [error] [text file model] handleSaveError(7) - exit - resulted in a save error: Error: Unable to write file '/home/l/portafolie1/pages/index.js' (Error: File Modified Since) file:///home/l/portafolie1/pages/index.js

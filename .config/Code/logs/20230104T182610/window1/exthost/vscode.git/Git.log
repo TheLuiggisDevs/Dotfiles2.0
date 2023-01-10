@@ -1,0 +1,21 @@
+2023-01-04 18:26:16.194 [info] Log level: Info
+2023-01-04 18:26:16.194 [info] Validating found git in: "git"
+2023-01-04 18:26:16.194 [info] Using git "2.39.0" from "git"
+2023-01-04 18:26:16.194 [info] > git rev-parse --show-toplevel [14ms]
+2023-01-04 18:26:16.194 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-01-04 18:26:16.194 [info] Open repository: /home/l/ProyectoTajamarReact
+2023-01-04 18:26:16.194 [info] > git config --get commit.template [7ms]
+2023-01-04 18:26:16.194 [info] > git rev-parse --show-toplevel [21ms]
+2023-01-04 18:26:16.194 [info] > git rev-parse --show-toplevel [14ms]
+2023-01-04 18:26:16.194 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-01-04 18:26:16.194 [info] > git status -z -uall [288ms]
+2023-01-04 18:26:16.194 [info] > git rev-parse --show-toplevel [298ms]
+2023-01-04 18:26:16.194 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [279ms]
+2023-01-04 18:26:16.194 [info] > git config --get commit.template [7ms]
+2023-01-04 18:26:16.194 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-01-04 18:26:16.194 [info] > git status -z -uall [360ms]
+2023-01-04 18:26:16.194 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [327ms]
+2023-01-04 18:26:16.194 [info] > git check-ignore -v -z --stdin [7ms]
+2023-01-04 18:26:16.864 [info] > git show --textconv :src/components/Form.js [108ms]
+2023-01-04 18:26:16.865 [info] > git ls-files --stage -- /home/l/ProyectoTajamarReact/src/components/Form.js [76ms]
+2023-01-04 18:26:16.891 [info] > git cat-file -s 23ab16704afbb9e780a22388b346b14bcfd79fef [2ms]

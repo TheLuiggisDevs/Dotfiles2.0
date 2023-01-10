@@ -1,0 +1,186 @@
+01:34:42.223: Using EGL/X11
+01:34:42.223: CPU Name: Intel(R) Pentium(R) CPU 6405U @ 2.40GHz
+01:34:42.223: CPU Speed: 2400.000MHz
+01:34:42.223: Physical Cores: 2, Logical Cores: 4
+01:34:42.223: Physical Memory: 15824MB Total, 14524MB Free
+01:34:42.223: Kernel Version: Linux 6.0.12-artix1-1
+01:34:42.223: Distribution: "Artix Linux" 20221219
+01:34:42.223: Session Type: x11
+01:34:42.223: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+01:34:42.224: Qt Version: 6.4.1 (runtime), 6.4.1 (compiled)
+01:34:42.224: Portable mode: false
+01:34:42.280: OBS 28.1.2-2 (linux)
+01:34:42.281: ---------------------------------
+01:34:42.281: ---------------------------------
+01:34:42.281: audio settings reset:
+01:34:42.281: 	samples per sec: 44100
+01:34:42.281: 	speakers:        1
+01:34:42.281: 	max buffering:   1044 milliseconds
+01:34:42.281: 	buffering type:  dynamically increasing
+01:34:42.284: ---------------------------------
+01:34:42.284: Initializing OpenGL...
+01:34:42.358: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics (CML GT1)
+01:34:42.358: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 22.2.3, shading language 4.60
+01:34:42.403: ---------------------------------
+01:34:42.403: video settings reset:
+01:34:42.403: 	base resolution:   1280x720
+01:34:42.403: 	output resolution: 1280x720
+01:34:42.403: 	downscale filter:  Lanczos
+01:34:42.403: 	fps:               30/1
+01:34:42.403: 	format:            NV12
+01:34:42.403: 	YUV mode:          Rec. 709/Partial
+01:34:42.403: NV12 texture support not available
+01:34:42.403: P010 texture support not available
+01:34:42.410: Audio monitoring device:
+01:34:42.410: 	name: Default
+01:34:42.410: 	id: default
+01:34:42.410: ---------------------------------
+01:34:42.418: Failed to load 'en-US' text for module: 'decklink-captions.so'
+01:34:42.426: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+01:34:42.433: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:34:42.433: Failed to initialize module 'decklink.so'
+01:34:42.593: [pipewire] No captures available
+01:34:42.615: v4l2loopback not installed, virtual camera disabled
+01:34:42.636: FFMPEG VAAPI supported
+01:34:42.648: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+01:34:42.648: 
+01:34:42.651: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+01:34:42.651: 
+01:34:42.651: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+01:34:42.706: ---------------------------------
+01:34:42.706:   Loaded Modules:
+01:34:42.706:     text-freetype2.so
+01:34:42.706:     rtmp-services.so
+01:34:42.706:     obs-x264.so
+01:34:42.706:     obs-vst.so
+01:34:42.706:     obs-transitions.so
+01:34:42.706:     obs-outputs.so
+01:34:42.706:     obs-filters.so
+01:34:42.706:     obs-ffmpeg.so
+01:34:42.706:     linux-v4l2.so
+01:34:42.706:     linux-pulseaudio.so
+01:34:42.706:     linux-pipewire.so
+01:34:42.706:     linux-jack.so
+01:34:42.706:     linux-capture.so
+01:34:42.706:     linux-alsa.so
+01:34:42.706:     image-source.so
+01:34:42.706:     frontend-tools.so
+01:34:42.706:     decklink-output-ui.so
+01:34:42.706:     decklink-captions.so
+01:34:42.706: ---------------------------------
+01:34:42.706: ==== Startup complete ===============================================
+01:34:42.746: All scene data cleared
+01:34:42.746: ------------------------------------------------
+01:34:42.749: pulse-input: Server name: 'pulseaudio 16.1'
+01:34:42.749: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:34:42.749: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+01:34:42.749: [Loaded global audio device]: 'Desktop Audio'
+01:34:42.811: pulse-input: Server name: 'pulseaudio 16.1'
+01:34:42.811: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:34:42.811: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+01:34:42.812: [Loaded global audio device]: 'Mic/Aux'
+01:34:42.815: xshm-input: Geometry 1366x768 @ 0,0
+01:34:42.826: Switched to scene 'Scene'
+01:34:42.827: ------------------------------------------------
+01:34:42.827: Loaded scenes:
+01:34:42.827: - scene 'Scene':
+01:34:42.827:     - source: 'Screen Capture (XSHM)' (xshm_input)
+01:34:42.827: ------------------------------------------------
+01:35:11.266: Settings changed (outputs)
+01:35:11.266: ------------------------------------------------
+02:58:31.044: ---------------------------------
+02:58:31.044: [x264 encoder: 'simple_video_recording'] preset: ultrafast
+02:58:31.044: [x264 encoder: 'simple_video_recording'] profile: high
+02:58:31.052: [x264 encoder: 'simple_video_recording'] settings:
+02:58:31.052: 	rate_control: CRF
+02:58:31.052: 	bitrate:      0
+02:58:31.052: 	buffer size:  0
+02:58:31.052: 	crf:          19
+02:58:31.052: 	fps_num:      30
+02:58:31.052: 	fps_den:      1
+02:58:31.052: 	width:        1280
+02:58:31.052: 	height:       720
+02:58:31.052: 	keyint:       250
+02:58:31.052: 
+02:58:31.077: ---------------------------------
+02:58:31.078: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 1, channel_layout: mono
+02:58:31.078: 
+02:58:31.090: ==== Recording Start ===============================================
+02:58:31.090: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/l/2022-12-30 02-58-31.mp4'...
+02:58:42.756: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/l/2022-12-30 02-58-31.mp4' stopped
+02:58:42.757: Output 'simple_file_output': stopping
+02:58:42.757: Output 'simple_file_output': Total frames output: 342
+02:58:42.757: Output 'simple_file_output': Total drawn frames: 350
+02:58:42.757: ==== Recording Stop ================================================
+07:49:16.828: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+07:49:16.828: 
+08:53:26.173: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:53:26.173: 	title: OBS 28.1.2-2 (linux) - Profile: Untitled - Scenes: Untitled
+08:53:26.173: 	class: obs
+08:53:26.173: 
+08:53:26.195: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+08:53:26.291: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:53:26.291: 	title: (19) WhatsApp
+08:53:26.291: 	class: whatsapp-nativefier-d40211
+08:53:26.291: 
+08:53:26.292: xcb_composite_name_window_pixmap failed
+08:53:32.825: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:53:32.825: 	title: ~
+08:53:32.825: 	class: kitty
+08:53:32.825: 
+08:53:32.825: xcb_composite_name_window_pixmap failed
+08:53:42.896: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+08:53:47.868: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:53:47.868: 	title: OBS 28.1.2-2 (linux) - Profile: Untitled - Scenes: Untitled
+08:53:47.868: 	class: obs
+08:53:47.868: 
+08:53:47.889: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+08:53:47.925: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:53:47.925: 	title: (19) WhatsApp
+08:53:47.925: 	class: whatsapp-nativefier-d40211
+08:53:47.925: 
+08:53:47.925: xcb_composite_name_window_pixmap failed
+08:54:19.125: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:54:19.125: 	title: OBS 28.1.2-2 (linux) - Profile: Untitled - Scenes: Untitled
+08:54:19.125: 	class: obs
+08:54:19.125: 
+08:54:25.075: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+08:54:30.399: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:54:30.399: 	title: OBS 28.1.2-2 (linux) - Profile: Untitled - Scenes: Untitled
+08:54:30.399: 	class: obs
+08:54:30.399: 
+08:54:30.416: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+08:54:30.491: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:54:30.491: 	title: (19) WhatsApp
+08:54:30.491: 	class: whatsapp-nativefier-d40211
+08:54:30.491: 
+08:54:30.492: xcb_composite_name_window_pixmap failed
+08:54:33.892: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:54:33.892: 	title: Neovide
+08:54:33.892: 	class: neovide
+08:54:33.892: 
+08:54:33.892: xcb_composite_name_window_pixmap failed
+08:55:13.260: ---------------------------------
+08:55:13.260: [x264 encoder: 'simple_video_recording'] preset: ultrafast
+08:55:13.260: [x264 encoder: 'simple_video_recording'] profile: high
+08:55:13.260: [x264 encoder: 'simple_video_recording'] settings:
+08:55:13.260: 	rate_control: CRF
+08:55:13.260: 	bitrate:      0
+08:55:13.260: 	buffer size:  0
+08:55:13.260: 	crf:          19
+08:55:13.260: 	fps_num:      30
+08:55:13.260: 	fps_den:      1
+08:55:13.260: 	width:        1280
+08:55:13.260: 	height:       720
+08:55:13.260: 	keyint:       250
+08:55:13.260: 
+08:55:13.279: ---------------------------------
+08:55:13.280: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 1, channel_layout: mono
+08:55:13.280: 
+08:55:13.287: ==== Recording Start ===============================================
+08:55:13.287: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/l/2022-12-30 08-55-13.mp4'...
+08:56:12.566: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/l/2022-12-30 08-55-13.mp4' stopped
+08:56:12.566: Output 'simple_file_output': stopping
+08:56:12.566: Output 'simple_file_output': Total frames output: 1770
+08:56:12.566: Output 'simple_file_output': Total drawn frames: 1779
+08:56:12.567: ==== Recording Stop ================================================

@@ -1,0 +1,10 @@
+2023-01-03 11:04:41.141 [info] update#setState idle
+2023-01-03 11:04:43.741 [info] Starting extension host with pid 5517 (fork() took 37 ms).
+2023-01-03 11:05:11.142 [info] update#setState checking for updates
+2023-01-03 11:05:11.295 [info] update#setState idle
+2023-01-03 11:47:08.823 [info] Starting extension host with pid 13136 (fork() took 25 ms).
+2023-01-03 11:49:02.453 [info] Extension host with pid 13136 exited with code: 0, signal: null.
+2023-01-03 12:06:31.202 [info] update#setState checking for updates
+2023-01-03 12:06:31.550 [info] update#setState idle
+2023-01-03 12:34:22.621 [info] Waiting for extension host with pid 5517 to exit.
+2023-01-03 12:34:22.744 [info] Extension host with pid 5517 exited with code: 0, signal: null.

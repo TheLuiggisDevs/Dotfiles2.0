@@ -1,0 +1,2 @@
+2023-01-03 10:19:58.768 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/l/.bashrc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-01-03 10:20:06.324 [info] [perf] Render performance baseline is 81ms

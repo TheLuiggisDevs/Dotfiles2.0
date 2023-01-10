@@ -1,0 +1,19 @@
+2023-01-04 18:26:13.378 [info] Extension host with pid 17662 started
+2023-01-04 18:26:13.378 [info] Skipping acquiring lock for /home/l/.config/Code/User/workspaceStorage/5fb8f30385fb18c2d39b7c8c7f93b14c.
+2023-01-04 18:26:13.540 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-01-04 18:26:13.541 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-04 18:26:13.542 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-04 18:26:13.542 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-01-04 18:26:14.652 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-04 18:26:14.653 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-04 18:26:15.345 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onLanguage:ReactNativeToolsOutput', root cause: msjsdiag.vscode-react-native
+2023-01-04 18:26:15.345 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-04 18:26:15.594 [info] Eager extensions activated
+2023-01-04 18:26:15.816 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 18:26:15.816 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 18:26:15.817 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 18:26:15.817 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 18:26:15.817 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 18:26:16.193 [info] ExtensionService#_doActivateExtension msjsdiag.vscode-react-native, startup: false, activationEvent: 'onLanguage:ReactNativeToolsOutput'
+2023-01-04 18:26:20.901 [info] Extension host terminating: received terminate message from renderer
+2023-01-04 18:26:20.930 [info] Extension host with pid 17662 exiting with code 0
